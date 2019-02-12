@@ -1,0 +1,9 @@
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\nunit.framework.dll
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\nunit.framework.xml
+C:\Users\mr. sourabh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CopyComplete
